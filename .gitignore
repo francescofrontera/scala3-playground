@@ -5,7 +5,7 @@
 .cache
 .history
 .lib/
-.bps/
+.bsp/
 dist/*
 target
 lib_managed/
