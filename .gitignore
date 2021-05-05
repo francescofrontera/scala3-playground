@@ -5,6 +5,7 @@
 .cache
 .history
 .lib/
+.bps/
 dist/*
 target
 lib_managed/
@@ -39,6 +40,6 @@ benchmarks/results
 .metals/
 project/.bloop/
 project/metals.sbt
-
+metals.sbt
 # Visual Studio Code Specific
 .vscode/
